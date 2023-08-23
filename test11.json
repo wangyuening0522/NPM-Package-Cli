@@ -1,0 +1,126 @@
+{
+  "npm-cli": {
+    "express": {
+      "accepts": {
+        "mime-types": {}
+      },
+      "body-parser": {
+        "debug": {},
+        "http-errors": {},
+        "iconv-lite": {},
+        "on-finished": {},
+        "qs": {
+          "side-channel": {
+            "call-bind": {
+              "function-bind": {},
+              "get-intrinsic": {
+                "function-bind": {},
+                "has": {
+                  "function-bind": {}
+                }
+              }
+            },
+            "get-intrinsic": {
+              "function-bind": {},
+              "has": {
+                "function-bind": {}
+              }
+            }
+          }
+        },
+        "raw-body": {
+          "http-errors": {},
+          "iconv-lite": {}
+        },
+        "type-is": {
+          "mime-types": {}
+        }
+      },
+      "content-disposition": {},
+      "cookie-signature": {},
+      "debug": {},
+      "finalhandler": {
+        "debug": {},
+        "on-finished": {}
+      },
+      "http-errors": {},
+      "on-finished": {},
+      "proxy-addr": {
+        "ipaddr.js": {}
+      },
+      "qs": {
+        "side-channel": {
+          "call-bind": {
+            "function-bind": {},
+            "get-intrinsic": {
+              "function-bind": {},
+              "has": {
+                "function-bind": {}
+              }
+            }
+          },
+          "get-intrinsic": {
+            "function-bind": {},
+            "has": {
+              "function-bind": {}
+            }
+          }
+        }
+      },
+      "send": {
+        "debug": {},
+        "http-errors": {},
+        "mime": {},
+        "on-finished": {}
+      },
+      "serve-static": {
+        "send": {
+          "debug": {},
+          "http-errors": {},
+          "mime": {},
+          "on-finished": {}
+        }
+      },
+      "type-is": {
+        "mime-types": {}
+      },
+      "utils-merge": {}
+    },
+    "npm-package-arg": {
+      "hosted-git-info": {},
+      "semver": {},
+      "validate-npm-package-name": {
+        "builtins": {
+          "semver": {}
+        }
+      }
+    },
+    "shelljs": {
+      "glob": {
+        "fs.realpath": {},
+        "inflight": {
+          "once": {
+            "wrappy": {}
+          },
+          "wrappy": {}
+        },
+        "minimatch": {
+          "brace-expansion": {}
+        },
+        "once": {
+          "wrappy": {}
+        }
+      },
+      "interpret": {},
+      "rechoir": {
+        "resolve": {
+          "is-core-module": {
+            "has": {
+              "function-bind": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "npm-cli",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "express": "^4.18.2",
+    "npm-package-arg": "^10.1.0",
+    "sha": "^1.2.4",
+    "shelljs": "^0.8.5"
+  },
+  "bin": {
+    "npm-cli": "./example.js"
+  },
+  "main": "example.js"
+}
